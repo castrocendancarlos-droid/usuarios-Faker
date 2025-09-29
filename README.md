@@ -1,2 +1,2 @@
 # usuarios-Faker
-exercicio creación usuairos aleatorios
+exercicio creación usuarios aleatorios
